@@ -1,3 +1,11 @@
+'''
+ Compiles and filters different data metrics from TrackMate's tracks output file
+
+ Assumes all output files are in different folders within one main directory
+
+ Processes one condition and one replicate
+ '''
+
 import os
 import pandas as pd
 import numpy as np
