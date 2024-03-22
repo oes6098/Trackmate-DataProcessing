@@ -3,7 +3,7 @@
 
  Assumes all output files are in different folders within one main directory
 
- Processes one condition and one replicate
+ Processes one condition
  '''
 
 import os
